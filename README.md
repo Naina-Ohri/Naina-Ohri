@@ -132,6 +132,26 @@ My goal is to become a Software Engineer who creates impactful applications, con
 </p>
 
 <br>
+<!-- Contribution Snake -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Naina-Ohri/Naina-Ohri/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Naina-Ohri/Naina-Ohri/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Naina-Ohri/Naina-Ohri/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+<br>
 
 <p align="center">
   <img width="75%" src="https://leetcard.jacoblin.cool/Naina_ohri?theme=dark&font=Space+Grotesk&ext=contest"/>
