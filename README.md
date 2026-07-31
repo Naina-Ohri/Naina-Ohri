@@ -1,291 +1,340 @@
 <!-- ========================================================= -->
-<!--                         HERO SECTION                       -->
+<!--                           HERO                            -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner"/>
+  <img src="./assets/banner.png" alt="Naina Ohri Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=27&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=B.Tech+Information+Technology+Student;Exploring+Artificial+Intelligence;Practicing+DSA+%26+LeetCode;Building+Projects+Every+Day" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Naina-Ohri">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naina-ohri-476773327/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Naina_ohri/">
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ohri.n.tech@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/8B5CF6" height="42" />
+  </a>
+</p>
+
+<br>
+
+<h1 align="center">
+  Hi, I'm Naina 👋
+</h1>
+
+<h3 align="center">
+  B.Tech Information Technology Student
+</h3>
+
+<p align="center">
+  Artificial Intelligence • Software Development • Data Structures & Algorithms
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology+Student;Exploring+Artificial+Intelligence;Practicing+DSA+%26+LeetCode;Building+Projects+%26+Learning+Every+Day" />
+I'm a B.Tech Information Technology student with a passion for building practical software, exploring Artificial Intelligence, and solving problems through code.
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Naina-Ohri">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/naina-ohri-476773327/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Naina_ohri/">
-<img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:ohri.n.tech@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="42"/>
-</a>
-
+I'm currently strengthening my foundation in <b>Data Structures & Algorithms</b>, building hands-on projects, and expanding my knowledge of modern software development while growing one project and one commit at a time.
 </p>
 
----
-
-# 👋 Hi, I'm Naina
-
-I'm a **B.Tech Information Technology student** passionate about learning how intelligent software is built.
-
-My current journey revolves around **Artificial Intelligence**, **Data Structures & Algorithms**, and **Web Development**, while continuously building projects that strengthen my practical skills.
-
-I enjoy solving problems, experimenting with new technologies, and learning something new every day.
+<p align="center">
+My goal is to become a Software Engineer who creates impactful applications, contributes to Open Source, and never stops learning.
+</p>
 
 <br>
 
-## ✨ Current Focus
-
-```text
-🤖 Exploring Artificial Intelligence
-
-💻 Solving DSA Problems on LeetCode
-
-🚀 Building Better Projects
-
-🌱 Learning Open Source & Git
-
-📚 Growing One Commit At A Time
-```
-
----
-<!-- ========================================================= -->
-<!--                    SKILLS & CERTIFICATIONS                -->
-<!-- ========================================================= -->
-
-## 💻 Tech Stack
-
 <p align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql&perline=6"/>
-
-<br><br>
-
-### 🛠 Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma&perline=5"/>
-
-<br><br>
-
-### 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git&perline=3"/>
-
+<i>"Code with curiosity. Build with purpose."</i>
 </p>
-
----
-
-## 🚀 Tech Snapshot
-
-<p align="center">
-
-| 💻 Languages | 🛠 Tools | 🌱 Learning |
-|:------------:|:-------:|:-----------:|
-| C++ • Python • HTML • CSS • JavaScript • SQL | Git • GitHub • VS Code • Canva • Figma | Artificial Intelligence • DSA • Open Source |
-
-</p>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-### 🏅 IBM
-
-**Artificial Intelligence Fundamentals**
-
-Completed Successfully
 
 <br>
 
-### 🏅 Microsoft × LinkedIn
+<!-- ========================================================= -->
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
 
-**Career Essentials in Generative AI**
+<h2 align="center">💻 Tech Stack</h2>
 
-Completed Successfully
+<br>
 
-</div>
+<h3 align="center">Languages</h3>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,sql&perline=6" />
+</p>
 
-## 🎯 Currently Exploring
+<br>
 
-```text
-🤖 Artificial Intelligence
+<h3 align="center">Tools & Technologies</h3>
 
-🧠 Prompt Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma&perline=5" />
+</p>
 
-📈 Data Structures & Algorithms
+<br>
 
-💻 Web Development
+<h3 align="center">Currently Learning</h3>
 
-🌍 Open Source Contributions
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&perline=5" />
+</p>
 
----
+<p align="center">
+
+🧠 Artificial Intelligence &nbsp;&nbsp;•&nbsp;&nbsp;
+📊 Data Structures & Algorithms &nbsp;&nbsp;•&nbsp;&nbsp;
+🌐 Web Development &nbsp;&nbsp;•&nbsp;&nbsp;
+🤝 Open Source
+
+</p>
+
+<br>
+
 <!-- ========================================================= -->
 <!--                     GITHUB DASHBOARD                      -->
 <!-- ========================================================= -->
 
-## 📊 GitHub Dashboard
+<h2 align="center">📊 GitHub Dashboard</h2>
+
+<br>
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naina-Ohri&show_icons=true&theme=radical&hide_border=true&border_radius=15&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Naina-Ohri&theme=radical&hide_border=true&border_radius=15"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naina-Ohri&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Naina-Ohri&theme=radical&hide_border=true&border_radius=15"/>
 </p>
 
 <br>
 
 <p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naina-Ohri&theme=github-dark&hide_border=true&radius=16"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina-Ohri&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
 </p>
 
----
-
-## 🧠 LeetCode Progress
+<br>
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Naina_ohri?theme=dark&font=Poppins&ext=contest" width="75%"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naina-Ohri&theme=github-dark&hide_border=true&radius=15"/>
 </p>
 
----
-
-## 📈 GitHub Highlights
+<br>
 
 <p align="center">
-
-⭐ Building projects consistently
-
-🧩 Practicing DSA with C++
-
-🤖 Exploring Artificial Intelligence
-
-🌱 Growing through Open Source
-
+  <img width="75%" src="https://leetcard.jacoblin.cool/Naina_ohri?theme=dark&font=Space+Grotesk&ext=contest"/>
 </p>
 
----
+<br>
 
-## 🐍 Contribution Snake
+<!-- The contribution snake will be added after your GitHub Action starts running -->
 
-> *Coming soon...*
+<p align="center">
+  <i>🐍 Contribution Snake will appear here automatically once the GitHub Action is running.</i>
+</p>
 
-We'll add the animated contribution snake after setting up the GitHub Action workflow.
+<br>
 
----
 <!-- ========================================================= -->
-<!--              PROJECTS • CERTIFICATIONS • CONTACT          -->
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
 
 ### 🌐 Portfolio Website
 
-A responsive personal portfolio showcasing my journey, projects, and skills.
+A responsive personal portfolio showcasing my projects, skills, and learning journey.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://github.com/Naina-Ohri/Portfolio-Website">
+View Repository →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 StudySync AI
+
+An AI-inspired study planner designed to organize tasks, schedules, and boost productivity.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://github.com/Naina-Ohri/StudySync-AI">
+View Repository →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 60 Days Claude Challenge
+
+A collection of hands-on AI experiments, prompt engineering tasks, and daily learning documentation.
+
+**Tech Stack**
+
+Git • GitHub • Claude AI
+
+<br>
+
+<a href="https://github.com/Naina-Ohri/60-day-claude-challenge-">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+<br>
+
+<!-- ========================================================= -->
+<!--                    CERTIFICATIONS                         -->
+<!-- ========================================================= -->
+
+<h2 align="center">📜 Certifications</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+## 🤖 IBM
+
+### Artificial Intelligence Fundamentals
+
+✅ Successfully Completed
+
+</td>
+
+<td width="50%" align="center">
+
+## 💼 Microsoft × LinkedIn
+
+### Career Essentials in Generative AI
+
+✅ Successfully Completed
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+More certifications coming soon 🚀
 </p>
 
-🔗 https://github.com/Naina-Ohri/Portfolio-Website
+<br>
 
----
+<!-- ========================================================= -->
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                          -->
+<!-- ========================================================= -->
 
-### 🤖 AI Study Planner
+<h2 align="center">🎯 Current Focus</h2>
 
-A smart planner concept focused on organizing study schedules using AI-inspired workflows.
+```yaml
+current_focus:
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+  mastering:
+    - Data Structures & Algorithms
+    - Object-Oriented Programming
+    - Artificial Intelligence Fundamentals
+    - Problem Solving with LeetCode
 
-> 🚧 Currently improving & expanding.
+  building:
+    - AI-powered applications
+    - Personal software projects
+    - A strong GitHub portfolio
+    - Practical programming skills
 
----
+  exploring:
+    - Machine Learning
+    - Prompt Engineering
+    - Modern Web Development
+    - Open Source
 
-### 🧠 60 Days Claude Challenge
+  working_towards:
+    - Software Engineering internships
+    - AI/ML internships
+    - Real-world development experience
+    - Meaningful Open Source contributions
+```
 
-Daily hands-on learning with Claude AI, prompt engineering, GitHub documentation, and AI workflows.
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github"/>
-</p>
+<!-- ========================================================= -->
+<!--                    LET'S CONNECT                          -->
+<!-- ========================================================= -->
 
-🔗 https://github.com/Naina-Ohri/60-day-claude-challenge-
+<h2 align="center">🤝 Let's Connect</h2>
 
----
-
-## 🎓 Certifications
-
-✨ IBM — Artificial Intelligence Fundamentals
-
-✨ Microsoft × LinkedIn — Career Essentials in Generative AI
-
-> More certifications coming soon...
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Strengthen DSA & problem-solving
-- 🤖 Build practical AI projects
-- 🌍 Make meaningful Open Source contributions
-- 🚀 Create a strong developer portfolio
-- 💼 Prepare for internships & placements
-
----
-
-## 🤝 Let's Connect
+<br>
 
 <p align="center">
 
 <a href="https://github.com/Naina-Ohri">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/naina-ohri-476773327/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Naina_ohri/">
-<img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="45"/>
+<img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ohri.n.tech@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
+<img src="https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         QUOTE                             -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+> *"Code with curiosity. Build with purpose."* 💜
 
 </p>
 
@@ -293,14 +342,14 @@ Daily hands-on learning with Claude AI, prompt engineering, GitHub documentation
 
 <p align="center">
 
-### ✨ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-*"Learning, building, and improving — one project at a time."*
+If you enjoyed exploring my projects, feel free to ⭐ a repository or connect with me.
 
-⭐ If you like my work, feel free to explore my repositories!
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </p>
 
 <!-- ========================================================= -->
-<!--                       END OF README                       -->
+<!--                         THE END                           -->
 <!-- ========================================================= -->
