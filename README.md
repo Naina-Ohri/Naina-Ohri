@@ -65,6 +65,8 @@ My goal is to become a Software Engineer who creates impactful applications, con
 <br>
 
 <!-- ========================================================= -->
+
+
 <!-- ========================================================= -->
 <!--                       TECH STACK                          -->
 <!-- ========================================================= -->
@@ -73,35 +75,39 @@ My goal is to become a Software Engineer who creates impactful applications, con
 
 <br>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,sql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js&perline=6" alt="C++, Python, Java, HTML, CSS, JavaScript">
 </p>
 
 <br>
 
-<h3 align="center">Tools & Technologies</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" alt="MySQL and PostgreSQL">
 </p>
 
 <br>
 
-<h3 align="center">Currently Learning</h3>
+<h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="Git, GitHub, VS Code and Figma">
+  &nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </p>
 
+<br>
+
+<h3 align="center">Currently Exploring</h3>
+
 <p align="center">
-
-🧠 Artificial Intelligence &nbsp;&nbsp;•&nbsp;&nbsp;
-📊 Data Structures & Algorithms &nbsp;&nbsp;•&nbsp;&nbsp;
-🌐 Web Development &nbsp;&nbsp;•&nbsp;&nbsp;
-🤝 Open Source
-
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412D70?style=flat-square" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=flat-square" alt="Data Structures and Algorithms">
+  <img src="https://img.shields.io/badge/Web%20Development-412D70?style=flat-square" alt="Web Development">
+  <img src="https://img.shields.io/badge/Open%20Source-2563EB?style=flat-square" alt="Open Source">
 </p>
 
 <br>
